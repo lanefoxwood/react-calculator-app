@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# <a href="https://lanefoxwood.github.io/react-calculator-app/">Click here to try!</a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
